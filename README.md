@@ -1,5 +1,5 @@
 # Anthelminthic Project
-Authors: M.L.Doolin, S.B.Weinstein, M.D.Dearing.
+Authors: M.L.Doolin and M.D.Dearing.
 Institution: University of Utah
 
 Using the fecal microbiome (16S data) to investigate microbiome changes in C57Bl/6 mice treated with different antiparasitic drugs
