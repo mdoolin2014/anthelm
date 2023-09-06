@@ -1,0 +1,84 @@
+sample-id	GNomexID	num	orig_name	orig_type	correct_type	mouse	day	day_num	sex	treatment	cage	body_wt	TD	Index_F	Index_R	Raw_forward_reads
+4_1_D0	20492X104	104	5_20_D0	mouse	mouse	4_1	D0	0	M	ALB	4a	25.01	ALB_D0	i713	i516	0.9
+4_1_D7	20492X127	127	5_1_D7	mouse	mouse	4_1	D7	7	M	ALB	4a	25	ALB_D7	i716	i515	1.2
+4_1_D21	20492X150	150	4_5_D21	mouse	mouse	4_1	D21	21	M	ALB	4a	25.06	ALB_D21	i719	i514	1.1
+4_2_D0	20492X103	103	5_2_D0	mouse	mouse	4_2	D0	0	M	ALB	4a	27.75	ALB_D0	i713	i515	1.6
+4_2_D7	20492X126	126	4_6_D7	mouse	mouse	4_2	D7	7	M	ALB	4a	27.25	ALB_D7	i716	i514	1.1
+4_2_D21	20492X149	149	4_4_D21	mouse	mouse	4_2	D21	21	M	ALB	4a	28.87	ALB_D21	i719	i513	1.2
+4_4_D0	20492X102	102	5_1_D0	mouse	mouse	4_4	D0	0	M	MTZ	4b	26.5	MTZ_D0	i713	i514	1.4
+4_4_D7	20492X125	125	4_5_D7	mouse	mouse	4_4	D7	7	M	MTZ	4b	26.6	MTZ_D7	i716	i513	1.3
+4_4_D21	20492X148	148	4_2_D21	mouse	mouse	4_4	D21	21	M	MTZ	4b	26.85	MTZ_D21	i719	i512	1.1
+4_5_D0	20492X101	101	4_6_D0	mouse	mouse	4_5	D0	0	M	MTZ	4b	27.2	MTZ_D0	i713	i513	1.3
+4_5_D7	20492X124	124	4_4_D7	mouse	mouse	4_5	D7	7	M	MTZ	4b	26.6	MTZ_D7	i716	i512	1.1
+4_5_D21	20492X147	147	4_1_D21	mouse	mouse	4_5	D21	21	M	MTZ	4b	26.68	MTZ_D21	i719	i511	0.8
+4_6_D0	20492X100	100	4_5_D0	mouse	mouse	4_6	D0	0	M	ALB	4a	22.7	ALB_D0	i713	i512	2
+4_6_D7	20492X123	123	4_2_D7	mouse	mouse	4_6	D7	7	M	ALB	4a	22.3	ALB_D7	i716	i511	1.1
+4_6_D21	20492X146	146	MD4_Blank1	ExtBlank	mouse	4_6	D21	21	M	ALB	4a	22.64	ALB_D21	i719	i510	1.3
+5_1_D7	20492X122	122	4_1_D7	mouse	mouse	5_1	D7	7	M	MTZ	5a	25.8	MTZ_D7	i716	i510	1.3
+5_1_D21	20492X145	145	9_2_D7	mouse	mouse	5_1	D21	21	M	MTZ	5a	25.8	MTZ_D21	i719	i509	1.3
+5_1_D0	20492X99	99	4_4_D0	mouse	mouse	5_1	D0	0	M	MTZ	5a	25.9	MTZ_D0	i713	i511	1.1
+5_2_D7	20492X121	121	MD3_Blank1	ExtBlank	mouse	5_2	D7	7	M	MTZ	5a	22.2	MTZ_D7	i716	i509	1.6
+5_2_D21	20492X160	160	6_3_D21	mouse	mouse	5_2	D21	21	M	MTZ	5a	23.73	MTZ_D21	i720	i516	1.2
+5_2_D0	20492X98	98	4_2_D0	mouse	mouse	5_2	D0	0	M	MTZ	5a	21.7	MTZ_D0	i713	i510	1.1
+5_20_D7	20492X136	136	7_1_D7	mouse	mouse	5_20	D7	7	M	control	5b	28.15	control_D7	i717	i516	1.2
+5_20_D21	20492X159	159	6_20_D21	mouse	mouse	5_20	D21	21	M	control	5b	28.7	control_D21	i720	i515	0.9
+5_20_D0	20492X97	97	4_1_D0	mouse	mouse	5_20	D0	0	M	control	5b	27.8	control_D0	i713	i509	1.5
+5_3_D0	20492X112	112	7_2_D0	mouse	mouse	5_3	D0	0	M	control	5b	25.65	control_D0	i714	i516	1.2
+5_3_D7	20492X135	135	6_3_D7	mouse	mouse	5_3	D7	7	M	control	5b	25.9	control_D7	i717	i515	1.2
+5_3_D21	20492X158	158	6_2_D21	mouse	mouse	5_3	D21	21	M	control	5b	26.7	control_D21	i720	i514	0.8
+6_1_D0	20492X111	111	7_1_D0	mouse	mouse	6_1	D0	0	F	control	6a	21.4	control_D0	i714	i515	0.5
+6_1_D7	20492X134	134	6_20_D7	mouse	mouse	6_1	D7	7	F	control	6a	20.9	control_D7	i717	i514	1.1
+6_1_D21	20492X157	157	6_10_D21	mouse	mouse	6_1	D21	21	F	control	6a	20.97	control_D21	i720	i513	1
+6_10_D0	20492X110	110	6_3_D0	mouse	mouse	6_10	D0	0	F	ALB	6b	20.85	ALB_D0	i714	i514	0.8
+6_10_D7	20492X133	133	6_2_D7	mouse	mouse	6_10	D7	7	F	ALB	6b	20.8	ALB_D7	i717	i513	1.1
+6_10_D21	20492X156	156	6_1_D21	mouse	mouse	6_10	D21	21	F	ALB	6b	21.05	ALB_D21	i720	i512	1.3
+6_2_D0	20492X109	109	6_20_D0	mouse	mouse	6_2	D0	0	F	control	6a	17.6	control_D0	i714	i513	0.8
+6_2_D7	20492X132	132	6_10_D7	mouse	mouse	6_2	D7	7	F	control	6a	17.75	control_D7	i717	i512	2.1
+6_2_D21	20492X155	155	5_3_D21	mouse	mouse	6_2	D21	21	F	control	6a	17.9	control_D21	i720	i511	1.2
+6_20_D0	20492X108	108	6_2_D0	mouse	mouse	6_20	D0	0	F	ALB	6b	20	ALB_D0	i714	i512	1.6
+6_20_D7	20492X131	131	6_1_D7	mouse	mouse	6_20	D7	7	F	ALB	6b	19.9	ALB_D7	i717	i511	1.3
+6_20_D21	20492X154	154	5_20_D21	mouse	mouse	6_20	D21	21	F	ALB	6b	20.85	ALB_D21	i720	i510	1.1
+6_3_D0	20492X107	107	6_10_D0	mouse	mouse	6_3	D0	0	F	ALB	6b	19.7	ALB_D0	i714	i511	1.6
+6_3_D7	20492X130	130	5_3_D7	mouse	mouse	6_3	D7	7	F	ALB	6b	19.9	ALB_D7	i717	i510	1.4
+6_3_D21	20492X153	153	5_2_D21	mouse	mouse	6_3	D21	21	F	ALB	6b	20.65	ALB_D21	i720	i509	1
+7_1_D0	20492X106	106	6_1_D0	mouse	mouse	7_1	D0	0	F	MTZ	7a	20.2	MTZ_D0	i714	i510	1.1
+7_1_D7	20492X129	129	5_20_D7	mouse	mouse	7_1	D7	7	F	MTZ	7a	20	MTZ_D7	i717	i509	1.3
+7_1_D21	20492X168	168	8_30_D21	mouse	mouse	7_1	D21	21	F	MTZ	7a	20.67	MTZ_D21	i721	i516	1.2
+7_2_D0	20492X105	105	5_3_D0	mouse	mouse	7_2	D0	0	F	MTZ	7a	19.7	MTZ_D0	i714	i509	1
+7_2_D7	20492X144	144	9_12_D7	mouse	mouse	7_2	D7	7	F	MTZ	7a	19.6	MTZ_D7	i718	i516	1.1
+7_2_D21	20492X167	167	8_2_D21	mouse	mouse	7_2	D21	21	F	MTZ	7a	19.3	MTZ_D21	i721	i515	1.3
+7_3_D0	20492X120	120	9_2_D0	mouse	mouse	7_3	D0	0	F	control	7b	19.35	control_D0	i715	i516	1.4
+7_3_D7	20492X143	143	8_30_D7	mouse	mouse	7_3	D7	7	F	control	7b	19.7	control_D7	i718	i515	0.9
+7_3_D21	20492X166	166	8_10_D21	mouse	mouse	7_3	D21	21	F	control	7b	20.63	control_D21	i721	i514	1.1
+7_30_D0	20492X119	119	9_12_D0	mouse	mouse	7_30	D0	0	F	control	7b	19.4	control_D0	i715	i515	1
+7_30_D7	20492X142	142	8_2_D7	mouse	mouse	7_30	D7	7	F	control	7b	19.65	control_D7	i718	i514	0.9
+7_30_D21	20492X165	165	8_1_D21	mouse	mouse	7_30	D21	21	F	control	7b	20.12	control_D21	i721	i513	1.4
+8_1_D0	20492X118	118	8_30_D0	mouse	mouse	8_1	D0	0	F	control	8a	19.19	control_D0	i715	i514	2
+8_1_D7	20492X141	141	8_10_D7	mouse	mouse	8_1	D7	7	F	control	8a	19.6	control_D7	i718	i513	0.9
+8_1_D21	20492X164	164	7_30_D21	mouse	mouse	8_1	D21	21	F	control	8a	20.6	control_D21	i721	i512	1.2
+8_10_D0	20492X117	117	8_2_D0	mouse	mouse	8_10	D0	0	F	ALB	8b	18.35	ALB_D0	i715	i513	1.1
+8_10_D7	20492X140	140	8_1_D7	mouse	mouse	8_10	D7	7	F	ALB	8b	18.5	ALB_D7	i718	i512	0.9
+8_10_D21	20492X163	163	7_3_D21	mouse	mouse	8_10	D21	21	F	ALB	8b	18.25	ALB_D21	i721	i511	1.3
+8_2_D0	20492X116	116	8_10_D0	mouse	mouse	8_2	D0	0	F	control	8a	18.65	control_D0	i715	i512	1.2
+8_2_D7	20492X139	139	7_30_D7	mouse	mouse	8_2	D7	7	F	control	8a	19.1	control_D7	i718	i511	1
+8_2_D21	20492X162	162	7_2_D21	mouse	mouse	8_2	D21	21	F	control	8a	18.5	control_D21	i721	i510	1.4
+8_30_D0	20492X115	115	8_1_D0	mouse	mouse	8_30	D0	0	F	ALB	8b	20.2	ALB_D0	i715	i511	0.1
+8_30_D7	20492X138	138	7_3_D7	mouse	mouse	8_30	D7	7	F	ALB	8b	19.85	ALB_D7	i718	i510	0.9
+8_30_D21	20492X161	161	7_1_D21	mouse	mouse	8_30	D21	21	F	ALB	8b	20.1	ALB_D21	i721	i509	1.7
+9_12_D0	20492X114	114	7_30_D0	mouse	mouse	9_12	D0	0	F	MTZ	9	19.5	MTZ_D0	i715	i510	1.3
+9_12_D7	20492X137	137	7_2_D7	mouse	mouse	9_12	D7	7	F	MTZ	9	19.5	MTZ_D7	i718	i509	1
+9_12_D21	20492X172	172	MD5_Blank3	ExtBlank	mouse	9_12	D21	21	F	MTZ	9	18.9	MTZ_D21	i722	i512	1.3
+9_2_D0	20492X113	113	7_3_D0	mouse	mouse	9_2	D0	0	F	MTZ	9	21.8	MTZ_D0	i715	i509	1.6
+9_2_D7	20492X152	152	5_1_D21	mouse	mouse	9_2	D7	7	F	MTZ	9	20.9	MTZ_D7	i719	i516	1.1
+9_2_D21	20492X171	171	MD5_Blank1	ExtBlank	mouse	9_2	D21	21	F	MTZ	9	20.85	MTZ_D21	i722	i511	1.2
+MD3_Blank1	20492X128	128	5_2_D7	mouse	ExtBlank	MD3_Blank1	blank	blank						i716	i516	0.2
+MD4_Blank1	20492X151	151	4_6_D21	mouse	ExtBlank	MD4_Blank1	blank	blank						i719	i515	0.2
+MD5_Blank1	20492X174	174	9_2_D21	mouse	ExtBlank	MD5_Blank1	blank	blank						i722	i514	0.2
+MD5_Blank3	20492X173	173	9_12_D21	mouse	ExtBlank	MD5_Blank3	blank	blank						i722	i513	0.3
+Plate1_ExtBlank	20492X11	11	1316_wild	woodrat	ExtBlank	Plate1_ExtBlank	blank	blank						i702	i503	0
+Plate1_PCR1Blank	20492X90	90	1314_D4	woodrat	PCRblank	Plate1_PCR1Blank	blank	blank						i712	i502	0.2
+Plate1_PCR2Blank	20492X89	89	1315_D12	woodrat	PCRblank	Plate1_PCR2Blank	blank	blank						i712	i501	0
+Plate2_ExtBlank	20492X175	175	Plate2_PCR1Blank	PCRBlank	ExtBlank	Plate2_ExtBlank	blank	blank						i722	i515	1.4
+Plate2_PCR1Blank	20492X170	170	Plate2_ExtBlank	ExtBlank	PCRblank	Plate2_PCR1Blank	blank	blank						i722	i510	1
+Plate2_PCR2Blank	20492X169	169	1318_D0	mouse	PCRblank	Plate2_PCR2Blank	blank	blank						i722	i509	0
+Zymo_Mock	20492X181	181	1310_D0.1	woodrat	MockComm	Zymo_Mock	Mock	Mock						i723	i513	1
