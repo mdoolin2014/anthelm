@@ -1,15 +1,10 @@
-# Anthelminthic Project
+# Antiparasitics Project
 Authors: M.L.Doolin and M.D.Dearing.
 Institution: University of Utah
 
-Using the fecal microbiota (16S data) to investigate microbiome changes in C57Bl/6 mice treated with the antiparasitics albendazole or metronidazole. 
+"Differential effects of antiparasitics on the gut microbiome: Minimal impact of albendazole, depletions and then resilience with metronidazole" submitted to The Journal of Infectious Diseases, under review. 
 
 ## Project design:
-Animals housed in cages of 2–3, sexes distributed across treatment groups. Samples from pretreatment and after 7d of treatment with one of two antiparasitics or control group treated with autoclaved DI water. Seeing if antiparasitic drugs alone alter microbial community. Often used as deworming tools in projects monitoring parasite-microbiome interactions but drug effect is unaccounted for in experiment. 
+Mice were housed in cages of 2–3, sexes distributed across treatment groups. Sampled feces before treatment start, after 7 days of daily treatment, and then after a two-week recovery period. Characterized fecal microbiotas with 16S sequencing. Compared fecal micorbiota change between pretreatment and posttreatement, and separately compared post-recovery samples to one another due to different DNA extraction methods.  
 
-## Labels:
-- pretreat – samples before D1 of treatment
-- D7 – samples after 7 days of treatment
-- ALB – group treated with albendazole (broad spectrum anthelminthic)
-- MTZ – group treated with metronidazole (broad spectrum antiprotozoal/antianaerobe)
-- Control – group that was gavaved with only DI water
+Significance: Both drugs are often used as antiparasitic treatments of hosts suffering from gut parasitic diseases. Diseases can be exacerbated by gut microbial dysbiosis, and this study shows that metronidazole especially should be considered as causing dysbiosis from treatment. We encourage consideration of alternative treatments or support of microbiome health with probiotic supplements or prebiotic foods. 
